@@ -1,5 +1,5 @@
 # Coursera-Data-Science-Capstone
-Material from the final course for Data Science
+Material from the final course for Data Science Professional Certificate by IBM-Coursera
 
 Here I have uploaded all the notebooks with the code written in order to accomplish the objective for this capstone project:
 1) Data collection with API
